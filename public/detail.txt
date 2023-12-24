@@ -1,0 +1,16 @@
+logo = navbar logo
+menu = for navbar open
+close = for navbar close
+
+
+_________________________________________________
+hero section
+_________________________________________________
+discount = % logo
+arrow up = for arrow up in get started circle
+
+
+3 icons are there:
+star
+shield
+send
