@@ -15,7 +15,8 @@ module.exports = {
       },
       colors: {
         mBg: "#484d6966",
-        mBlue:"#4ad0dc"
+        mBg2: "#444a6d26",
+        mBlue: "#4ad0dc",
       },
     },
   },
